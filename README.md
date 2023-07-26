@@ -1,5 +1,18 @@
-### Hi there 👋
----
+# Hi there 👋
+
+Glad you could stop by. I'm a software developer from Denmark.
+
+## 🔭 I’m currently working on
+- My business ;-)
+
+## The toolkit 🛠️
+- Elixir & Phoenix
+- Ruby & Rails
+- Javascript & Typescript mostly for React
+- Bootstrap & Google Mui
+- Plenty of CSS/Sass
+- Oh yeah - Java and friends too
+- C++ way back when
 
 <!--
 **iamkristian/iamkristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
