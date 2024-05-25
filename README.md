@@ -9,7 +9,7 @@ Glad you could stop by. I'm a software developer from Denmark.
 - Elixir & Phoenix
 - Ruby & Rails
 - Javascript & Typescript mostly for React
-- Bootstrap & Google Mui
+- Tailwind, Bootstrap & Google Mui
 - Plenty of CSS/Sass
 - Oh yeah - Java and friends too
 - C++ way back when
