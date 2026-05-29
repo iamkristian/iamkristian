@@ -8,7 +8,7 @@ Glad you could stop by. I'm a software developer from Denmark.
 ## The toolkit 🛠️
 - Elixir & Phoenix
 - Ruby & Rails
-- Typescript mostly for Angular
+- Typescript mostly for Angular & React
 - Tailwind, Bootstrap
 - Plenty of CSS/Sass
 - Oh yeah - Java and friends too
